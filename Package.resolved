@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Async",
+        "repositoryURL": "https://github.com/vapor/async",
+        "state": {
+          "branch": null,
+          "revision": "ed6d1c0d2a343e79426136d66c87dae7df055802",
+          "version": "1.0.0-alpha.5"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
